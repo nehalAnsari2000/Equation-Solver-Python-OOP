@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is an advanced equation solver implemented in Python, supporting both linear and quadratic equations. It leverages object-oriented programming principles such as encapsulation, abstraction, and subclass initialization. By using abstract base classes (`ABC`), it ensures that all equation types follow a structured implementation. The project also utilizes the `re` module to enhance equation formatting. Additionally, it was developed as part of the freeCodeCamp certification program, highlighting its educational value and adherence to industry standards. This solver provides not only solutions but also in-depth equation analysis, making it a valuable mathematical tool.
+This project is an advanced equation solver implemented in Python, supporting both linear and quadratic equations. It leverages object-oriented programming principles such as encapsulation, abstraction, and subclass initialization. By using abstract base classes (`ABC`), it ensures that all equation types follow a structured implementation. The project also utilizes the `re` module to enhance equation formatting. Additionally, this project was a part of the Scientific Computing with Python certification on FreeCodeCamp, where I learned about object-oriented programming and class inheritance in Python.
 
 ## Features
 
